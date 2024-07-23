@@ -1,3 +1,4 @@
+// package mw is a package that bundles a few middlewares that can be used to wrap http.Handlers.
 package mw
 
 import "net/http"
